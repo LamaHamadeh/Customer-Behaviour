@@ -1,19 +1,15 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 19 11:30:08 2016
 
-@author: lamahamadeh
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Fri Dec 16 13:01:27 2016
 
 Author: Lama Hamadeh
 Software: I use Spyder 3.0.2 (Python 3.5) to write the following code
 The aim: Analyse the data and look for the behavioural differences between investors and non-investors
+The Question:
+We have attached a small subset of data from our front end events database. Dataset focuses on behavioural activity before 
+user makes their first investment. Each of the lines is a distinct user's behaviour before making the first investment. 
+You will note that not everyone from this dataset made the first investment. What we would like you to do is to analyse 
+the data and look for the behavioural differences between investors and non-investors.
 """
 
 
