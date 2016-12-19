@@ -1,6 +1,6 @@
 # Customer-Behaviour
 
-This file analyses the dataset of customer behviour and look for the behavioural differences between investors and non-investors in
+This file analyses the dataset of customer behviour and thier behavioural differences, i.e., between investors and non-investors, in
 a real estate company
 
 The dataset was sent by Property Partner company in London in Thu 15/12/2016, where they made a shoert test for a 
